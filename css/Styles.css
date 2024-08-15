@@ -13,7 +13,7 @@ li {
 }
 
 #box {
-    border:1px solid;
+    border:2px solid;
     margin:420px;
     margin-top: 0px;
     padding: 10px;
@@ -23,4 +23,14 @@ li {
     float:top;
     display: inline;
     padding:75px;
+    color:white;
+}
+#cajita {
+    background-color: black;
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 50px;
+    -webkit-box-shadow: 15px 10px 5px 0px rgba(0,0,0,0.66);
+    -moz-box-shadow: 15px 10px 5px 0px rgba(0,0,0,0.66);
+    box-shadow: 15px 10px 5px 0px rgba(0,0,0,0.66);
 }
