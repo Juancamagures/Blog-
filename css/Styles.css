@@ -14,7 +14,13 @@ li {
 
 #box {
     border:1px solid;
-    margin:400px;
+    margin:420px;
     margin-top: 0px;
-    padding: 20px;
+    padding: 10px;
+}
+
+#coco {
+    float:top;
+    display: inline;
+    padding:75px;
 }
