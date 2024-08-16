@@ -12,3 +12,8 @@ h1{
     margin-right: 200px;
     padding-bottom: 20px;
 }
+#text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    padding-left: 200px;
+}
